@@ -1,0 +1,26 @@
+@import 'colors';
+
+.breadcrumb{
+    --bs-breadcrumb-divider: '>';
+}
+// .body{
+   
+// }
+// .breadcrumb {
+//     display: flex;
+//     flex-wrap: wrap;
+//     padding: 0;
+//     margin-bottom: 1rem;
+//     list-style: none;
+//     background-color: transparent;
+//     border-radius: .25rem;
+//   }
+  
+//   .breadcrumb-item + .breadcrumb-item::before {
+//     display: inline-block;
+//     padding-right: 0.5rem;
+//     padding-left: 0.5rem;
+//     color: #6c757d;
+//     content: ">";
+//   }
+  
